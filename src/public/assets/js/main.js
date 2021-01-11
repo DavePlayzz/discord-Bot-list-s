@@ -110,4 +110,3 @@ $('a[href^="#"]').on("click", function (event) {
 });
 
 
-<script async src="https://arc.io/widget.min.js#xTG8jGMq"></script>
