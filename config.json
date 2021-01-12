@@ -1,5 +1,5 @@
 {
-    "mongo_url": "mongodb+srv://6526931122Xr:6526931122Xr@cluster0.vfw6j.mongodb.net/test",
+    "mongo_url": "_",
     "server": {
         "id": "795171931858796575",
         "invite": "https://discord.gg/d3SBQ7eZFh",
@@ -22,9 +22,9 @@
     },
     "discord_client": {
         "id": "795516179296682016",
-        "secret": "AW1IJYj3Dn5hc4p32wXfRNTtvp_5XRsI",
-        "token": "Nzk1NTE2MTc5Mjk2NjgyMDE2.X_KgLQ.F1Cx9hmBqbU0PSkFdnrxERzI0d0",
-        "prefix": "r!"
+        "secret": "",
+        "token": "",
+        "prefix": "!"
     },
     "web": {
         "domain_with_protocol": "https://rlist.glitch.me",
